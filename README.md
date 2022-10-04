@@ -1,6 +1,6 @@
 # CCD
 
-Official PyTorch Implementation : Contextual Debiasing for Visual Recognition with Causal Mechanisms
+Official PyTorch Implementation : Contextual Debiasing for Visual Recognition with Causal Mechanisms <br>
 [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Contextual_Debiasing_for_Visual_Recognition_With_Causal_Mechanisms_CVPR_2022_paper.html)<br>
 
 A Simple but Effective Baseline for Multi-label Classification
